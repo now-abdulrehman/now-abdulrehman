@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/now_abdulrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="now_abdulrehman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/now.abdulrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="now.abdulrehman" height="30" width="40" /></a>
-<a href="https://www.instagram.com/now.abdulrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="now.abdulrehman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/ar.webnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="now_abdulrehman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ar.webnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="now.abdulrehman" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ar.webnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="now.abdulrehman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
