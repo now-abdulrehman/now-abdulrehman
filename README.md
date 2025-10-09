@@ -1,6 +1,14 @@
-<div align="center">
+<div align="center" style="font-family:Poppins; font-size:30px; color:white;">
+<b>Hey, I'm</b>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=500&color=A259FF&center=true&vCenter=true&repeat=false&width=250&lines=Abdul+Rehman" alt="Typing SVG"/>
 
-<h1>Hey <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm <span style="color:#00BFFF;">Abdul Rehman 🇵🇰</span></h1>
+<hr style="width:60%; border: 0.3px solid #00BFFF;">
+
+<img src="https://komarev.com/ghpvc/?username=now-abdulrehman&style=flat-square&color=00BFFF" alt="Profile Views"/>
+
+<hr style="width:60%; border: 0.5px solid #00BFFF;">
+
 <h3>❖ Frontend Developer ❖</h3>
 
 <p>
@@ -27,8 +35,20 @@ Reach me at: <b><a href="https://mail.google.com/mail/u/0/?fs=1&to=replyar28@gma
   <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,php,vscode,github" />
 </p>
 
+<hr style="width:60%; border: 0.5px solid #00BFFF;">
+
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=now-abdulrehman&style=flat-square&color=00BFFF" alt="Profile Views"/>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=now-abdulrehman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=now-abdulrehman&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=now-abdulrehman&theme=tokyonight" alt="github streaks" />
+</p>
 
 </div>
