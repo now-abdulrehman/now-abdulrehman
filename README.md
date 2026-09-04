@@ -71,12 +71,12 @@ Frontend development, portfolio projects, UI experiments and web technologies.
 
 <div align="center">
 
-<a href="mailto:arwebnox@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
 <a href="https://github.com/ar-webnox">
   <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:arwebnox@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
