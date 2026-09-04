@@ -1,54 +1,96 @@
-<div align="center" style="font-family:Poppins; font-size:30px; color:white;">
-<b>Hey, I'm</b>
+# Abdul Rehman
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Web+Experiences;Next.js+and+React+Enthusiast;Always+Learning+Something+New" />
+
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=500&color=A259FF&center=true&vCenter=true&repeat=false&width=250&lines=Abdul+Rehman" alt="Typing SVG"/>
 
-<hr style="width:60%; border: 0.3px solid #00BFFF;">
+<img src="https://komarev.com/ghpvc/?username=now-abdulrehman&label=Profile+Views&style=for-the-badge&color=0ea5e9" />
 
-<img src="https://komarev.com/ghpvc/?username=now-abdulrehman&style=flat-square&color=00BFFF" alt="Profile Views"/>
+</div>
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
+---
 
-<h3>❖ Frontend Developer ❖</h3>
+## About
 
-<p>
-I love building <b>clean, modern & responsive web experiences</b>.<br>
-Currently exploring <b>JavaScript</b> and <b>UI/UX Design</b>.<br>
-Check out my main portfolio: <a href="https://arox-portfolio.netlify.app" target="_blank"><b>arox-portfolio.netlify.app</b></a><br>
-Reach me at: <b><a href="https://mail.google.com/mail/u/0/?fs=1&to=replyar28@gmail.com&su=Hello&body=Write+your+message+here&tf=cm" target="_blank">replyar28@gmail.com<a></b>
-</p>
+I'm Abdul Rehman, a frontend developer from Pakistan with a strong interest in modern web technologies and user interface design.
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
+I enjoy building responsive websites, exploring new technologies and improving my development workflow through continuous learning and practical projects.
 
-<h3>✦ Connect with Me ✦</h3>
+My primary focus is creating fast, accessible and visually polished web experiences.
+
+---
+
+## Technologies
 
 <p align="center">
-  <a href="https://www.youtube.com/@ar.webnox" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" alt="YouTube"/></a><span>&nbsp;</span>
-  <a href="https://www.facebook.com/ar.webnox" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="40" alt="Facebook"/></a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/ar.webnox" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="40" alt="Instagram"/></a><span>&nbsp;</span>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,java,cpp,php,git,github,vscode,figma" />
 </p>
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
+---
 
-<h3>⟡ Tech Stack ⟡</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,php,vscode,github" />
+## Projects & Interests
+
+- Frontend Development
+- Responsive Web Design
+- User Interface Design
+- JavaScript Ecosystem
+- Next.js Applications
+- Performance Optimization
+- Learning Modern Development Practices
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=now-abdulrehman&theme=tokyonight" />
 </p>
 
-<hr style="width:60%; border: 0.5px solid #00BFFF;">
-
-<br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=now-abdulrehman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=now-abdulrehman&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=now-abdulrehman&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=now-abdulrehman&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=now-abdulrehman&theme=tokyonight" alt="github streaks" />
-</p>
+## Development Profile
+
+Most of my development projects, experiments and web-related work are available on my dedicated developer profile:
+
+### AR WebNox
+
+🔗 https://github.com/ar-webnox
+
+Frontend development, portfolio projects, UI experiments and web technologies.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:arwebnox@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/ar-webnox">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+Building, learning and improving one project at a time.
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=footer"/>
 
 </div>
